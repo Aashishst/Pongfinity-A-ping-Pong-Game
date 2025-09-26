@@ -66,7 +66,6 @@ python Aashish-K_Pongfinity.py
 
 * **Player 1:** `W` (up), `S` (down)
 * **Player 2:** `Up Arrow`, `Down Arrow`
-* **Pause / Resume:** `P` or `Esc`
 * **Quit:** `Q` or window close
 
 *Adjust keys in the script if you prefer different bindings.*
