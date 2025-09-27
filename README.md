@@ -68,7 +68,8 @@ pip install pygame
 2. Open the Python folder
 
 3.  Download a file(In a premade folder **(Recommended)**)
-
+'
+### Method 2
 
 1. Clone the repo:
 
