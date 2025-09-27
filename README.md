@@ -57,7 +57,18 @@ pip install pygame
 
 ---
 
-## ▶️ Run locally
+## Run locally
+
+- There are two ways to do this. Both are shown below.
+
+### Method 1:
+
+1. Go to the repo
+     
+2. Open the Python folder
+
+3.  Download a file(In a premade folder **(Recommended)**)
+
 
 1. Clone the repo:
 
